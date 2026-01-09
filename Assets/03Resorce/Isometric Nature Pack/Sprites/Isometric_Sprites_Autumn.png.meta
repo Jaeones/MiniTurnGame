@@ -1,0 +1,1612 @@
+fileFormatVersion: 2
+guid: ef59a0ecb27bfa641b09dc4b9ce2b151
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2576483716449269318
+    second: Isometric_Sprites_Autumn_0
+  - first:
+      213: 4076631655659763341
+    second: Isometric_Sprites_Autumn_1
+  - first:
+      213: 4149933718480673667
+    second: Isometric_Sprites_Autumn_2
+  - first:
+      213: -6170650274133726793
+    second: Isometric_Sprites_Autumn_3
+  - first:
+      213: -5980648599005451597
+    second: Isometric_Sprites_Autumn_4
+  - first:
+      213: 6519776769000869126
+    second: Isometric_Sprites_Autumn_5
+  - first:
+      213: 6102814131564958879
+    second: Isometric_Sprites_Autumn_6
+  - first:
+      213: -1629409368681861207
+    second: Isometric_Sprites_Autumn_7
+  - first:
+      213: 766197446652427328
+    second: Isometric_Sprites_Autumn_8
+  - first:
+      213: 3857801822688414769
+    second: Isometric_Sprites_Autumn_9
+  - first:
+      213: -6744500606293373508
+    second: Isometric_Sprites_Autumn_10
+  - first:
+      213: -522251805313390486
+    second: Isometric_Sprites_Autumn_11
+  - first:
+      213: -4599446950287825401
+    second: Isometric_Sprites_Autumn_12
+  - first:
+      213: 25455480878059173
+    second: Isometric_Sprites_Autumn_13
+  - first:
+      213: 19802309767943374
+    second: Isometric_Sprites_Autumn_14
+  - first:
+      213: 4628458882826603525
+    second: Isometric_Sprites_Autumn_15
+  - first:
+      213: 4961242550245505142
+    second: Isometric_Sprites_Autumn_16
+  - first:
+      213: -3686848670098743711
+    second: Isometric_Sprites_Autumn_17
+  - first:
+      213: 6423532727502186001
+    second: Isometric_Sprites_Autumn_18
+  - first:
+      213: 4384842401671952205
+    second: Isometric_Sprites_Autumn_19
+  - first:
+      213: 4149768800353439141
+    second: Isometric_Sprites_Autumn_20
+  - first:
+      213: 8600468545175192247
+    second: Isometric_Sprites_Autumn_21
+  - first:
+      213: 8761642302958485887
+    second: Isometric_Sprites_Autumn_22
+  - first:
+      213: 1035242977262888637
+    second: Isometric_Sprites_Autumn_23
+  - first:
+      213: -1753096866378586267
+    second: Isometric_Sprites_Autumn_24
+  - first:
+      213: -1212425439219178523
+    second: Isometric_Sprites_Autumn_25
+  - first:
+      213: -568102041223526875
+    second: Isometric_Sprites_Autumn_26
+  - first:
+      213: -5876068069750590106
+    second: Isometric_Sprites_Autumn_27
+  - first:
+      213: 1865095177234515435
+    second: Isometric_Sprites_Autumn_28
+  - first:
+      213: 4329676705435776701
+    second: Isometric_Sprites_Autumn_29
+  - first:
+      213: 4671967703911515157
+    second: Isometric_Sprites_Autumn_30
+  - first:
+      213: 6094756258419496533
+    second: Isometric_Sprites_Autumn_31
+  - first:
+      213: 9167234777920402420
+    second: Isometric_Sprites_Autumn_32
+  - first:
+      213: 1106837623084389894
+    second: Isometric_Sprites_Autumn_33
+  - first:
+      213: 8279074847784064077
+    second: Isometric_Sprites_Autumn_34
+  - first:
+      213: -7920724873972288126
+    second: Isometric_Sprites_Autumn_35
+  - first:
+      213: -6029052912519741382
+    second: Isometric_Sprites_Autumn_36
+  - first:
+      213: -4325161916482070389
+    second: Isometric_Sprites_Autumn_37
+  - first:
+      213: -7405919642160902261
+    second: Isometric_Sprites_Autumn_38
+  - first:
+      213: -6041544341184492087
+    second: Isometric_Sprites_Autumn_39
+  - first:
+      213: 967056637331321006
+    second: Isometric_Sprites_Autumn_40
+  - first:
+      213: -1831104553351089247
+    second: Isometric_Sprites_Autumn_41
+  - first:
+      213: -7854690731667459515
+    second: Isometric_Sprites_Autumn_42
+  - first:
+      213: 2447859215945429481
+    second: Isometric_Sprites_Autumn_43
+  - first:
+      213: 1200929119155681270
+    second: Isometric_Sprites_Autumn_44
+  - first:
+      213: 4497547319190380520
+    second: Isometric_Sprites_Autumn_45
+  - first:
+      213: -4262823919227919489
+    second: Isometric_Sprites_Autumn_46
+  - first:
+      213: -1832712451745933482
+    second: Isometric_Sprites_Autumn_47
+  - first:
+      213: -411478305480647979
+    second: Isometric_Sprites_Autumn_48
+  - first:
+      213: -4238725109451120724
+    second: Isometric_Sprites_Autumn_49
+  - first:
+      213: -7458829060437326213
+    second: Isometric_Sprites_Autumn_50
+  - first:
+      213: -444311878574648552
+    second: Isometric_Sprites_Autumn_51
+  - first:
+      213: -5495204765280650018
+    second: Isometric_Sprites_Autumn_52
+  - first:
+      213: -8662610115825232873
+    second: Isometric_Sprites_Autumn_53
+  - first:
+      213: -5354551731967703208
+    second: Isometric_Sprites_Autumn_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 420
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9867fe5bd7e3cd0800000000000000
+      internalID: -2576483716449269318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 420
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8676b354ea139830800000000000000
+      internalID: 4076631655659763341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 420
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bd47bcab6879930800000000000000
+      internalID: 4149933718480673667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 420
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9a719e4427d5aa0800000000000000
+      internalID: -6170650274133726793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 390
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3baa7d939c7700da0800000000000000
+      internalID: -5980648599005451597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 390
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d042b9d66ea7a50800000000000000
+      internalID: 6519776769000869126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_6
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 390
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94d92a5e1d81b450800000000000000
+      internalID: 6102814131564958879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_7
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 390
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af260aefcc2369e0800000000000000
+      internalID: -1629409368681861207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 358
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c778ba48412aa00800000000000000
+      internalID: 766197446652427328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 358
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c8237715aa98530800000000000000
+      internalID: 3857801822688414769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_10
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 358
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd0a76be68b662a0800000000000000
+      internalID: -6744500606293373508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_11
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 358
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a682df400c690c8f0800000000000000
+      internalID: -522251805313390486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 328
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70627dc1e5b7b20c0800000000000000
+      internalID: -4599446950287825401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 328
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aec25fff9f6a5000800000000000000
+      internalID: 25455480878059173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_14
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 328
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec45377881a564000800000000000000
+      internalID: 19802309767943374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_15
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 328
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c8160d4d69b3040800000000000000
+      internalID: 4628458882826603525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 297
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678bfeb40dfd9d440800000000000000
+      internalID: 4961242550245505142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 297
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e94261baea5dcc0800000000000000
+      internalID: -3686848670098743711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_18
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 297
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1162dd97bf8f42950800000000000000
+      internalID: 6423532727502186001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_19
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 297
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d473ab3bee61adc30800000000000000
+      internalID: 4384842401671952205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 266
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adc01dccb0f69930800000000000000
+      internalID: 4149768800353439141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_21
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 266
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2861913900b5770800000000000000
+      internalID: 8600468545175192247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_22
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 266
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7140ecd04b979970800000000000000
+      internalID: 8761642302958485887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_23
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 266
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6e8fbb00ced5e00800000000000000
+      internalID: 1035242977262888637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 235
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56767a630bfbba7e0800000000000000
+      internalID: -1753096866378586267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_25
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 235
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3a1ba9c799c2fe0800000000000000
+      internalID: -1212425439219178523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_26
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 235
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52682b41432bd18f0800000000000000
+      internalID: -568102041223526875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_27
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 235
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665308a2933047ea0800000000000000
+      internalID: -5876068069750590106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 204
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be58b579e2622e910800000000000000
+      internalID: 1865095177234515435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_29
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 204
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db678c3260a161c30800000000000000
+      internalID: 4329676705435776701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_30
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 204
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5144eb1afd926d040800000000000000
+      internalID: 4671967703911515157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_31
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 204
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556deaf868ce49450800000000000000
+      internalID: 6094756258419496533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 172
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f37d8ed57f883f70800000000000000
+      internalID: 9167234777920402420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_33
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 172
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6069bf334f64c5f00800000000000000
+      internalID: 1106837623084389894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_34
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 172
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d445a0ba5be25e270800000000000000
+      internalID: 8279074847784064077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_35
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 141
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285f74361bee31290800000000000000
+      internalID: -7920724873972288126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_36
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 141
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a300a31c150845ca0800000000000000
+      internalID: -6029052912519741382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_37
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 141
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88d9041720f9f3c0800000000000000
+      internalID: -4325161916482070389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_38
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 141
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f49edd253e83990800000000000000
+      internalID: -7405919642160902261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_39
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 110
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd4de06e6f182ca0800000000000000
+      internalID: -6041544341184492087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_40
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 110
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea031d153ecab6d00800000000000000
+      internalID: 967056637331321006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_41
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 110
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a378ee3c1c9696e0800000000000000
+      internalID: -1831104553351089247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_42
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 110
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542786e35688ef290800000000000000
+      internalID: -7854690731667459515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_43
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 79
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1f792dcfa88f120800000000000000
+      internalID: 2447859215945429481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_44
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 79
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f772bbcbae8aa010800000000000000
+      internalID: 1200929119155681270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_45
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 79
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef5ad0357f7a6e30800000000000000
+      internalID: 4497547319190380520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_46
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 79
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73a16a1b3867d4c0800000000000000
+      internalID: -4262823919227919489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_47
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 46
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6579f3a3cb5e096e0800000000000000
+      internalID: -1832712451745933482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_48
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 46
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dadb0949a22a4af0800000000000000
+      internalID: -411478305480647979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_49
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 46
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf13ae78f50d25c0800000000000000
+      internalID: -4238725109451120724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_50
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 46
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76c544fc7aec7890800000000000000
+      internalID: -7458829060437326213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_51
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 16
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813521453bc75d9f0800000000000000
+      internalID: -444311878574648552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_52
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 16
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcb96d716c1db3b0800000000000000
+      internalID: -5495204765280650018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_53
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 16
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71418820ff938c780800000000000000
+      internalID: -8662610115825232873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Autumn_54
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 16
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857cc94c19fc0b5b0800000000000000
+      internalID: -5354551731967703208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Isometric_Sprites_Autumn_0: -2576483716449269318
+      Isometric_Sprites_Autumn_1: 4076631655659763341
+      Isometric_Sprites_Autumn_10: -6744500606293373508
+      Isometric_Sprites_Autumn_11: -522251805313390486
+      Isometric_Sprites_Autumn_12: -4599446950287825401
+      Isometric_Sprites_Autumn_13: 25455480878059173
+      Isometric_Sprites_Autumn_14: 19802309767943374
+      Isometric_Sprites_Autumn_15: 4628458882826603525
+      Isometric_Sprites_Autumn_16: 4961242550245505142
+      Isometric_Sprites_Autumn_17: -3686848670098743711
+      Isometric_Sprites_Autumn_18: 6423532727502186001
+      Isometric_Sprites_Autumn_19: 4384842401671952205
+      Isometric_Sprites_Autumn_2: 4149933718480673667
+      Isometric_Sprites_Autumn_20: 4149768800353439141
+      Isometric_Sprites_Autumn_21: 8600468545175192247
+      Isometric_Sprites_Autumn_22: 8761642302958485887
+      Isometric_Sprites_Autumn_23: 1035242977262888637
+      Isometric_Sprites_Autumn_24: -1753096866378586267
+      Isometric_Sprites_Autumn_25: -1212425439219178523
+      Isometric_Sprites_Autumn_26: -568102041223526875
+      Isometric_Sprites_Autumn_27: -5876068069750590106
+      Isometric_Sprites_Autumn_28: 1865095177234515435
+      Isometric_Sprites_Autumn_29: 4329676705435776701
+      Isometric_Sprites_Autumn_3: -6170650274133726793
+      Isometric_Sprites_Autumn_30: 4671967703911515157
+      Isometric_Sprites_Autumn_31: 6094756258419496533
+      Isometric_Sprites_Autumn_32: 9167234777920402420
+      Isometric_Sprites_Autumn_33: 1106837623084389894
+      Isometric_Sprites_Autumn_34: 8279074847784064077
+      Isometric_Sprites_Autumn_35: -7920724873972288126
+      Isometric_Sprites_Autumn_36: -6029052912519741382
+      Isometric_Sprites_Autumn_37: -4325161916482070389
+      Isometric_Sprites_Autumn_38: -7405919642160902261
+      Isometric_Sprites_Autumn_39: -6041544341184492087
+      Isometric_Sprites_Autumn_4: -5980648599005451597
+      Isometric_Sprites_Autumn_40: 967056637331321006
+      Isometric_Sprites_Autumn_41: -1831104553351089247
+      Isometric_Sprites_Autumn_42: -7854690731667459515
+      Isometric_Sprites_Autumn_43: 2447859215945429481
+      Isometric_Sprites_Autumn_44: 1200929119155681270
+      Isometric_Sprites_Autumn_45: 4497547319190380520
+      Isometric_Sprites_Autumn_46: -4262823919227919489
+      Isometric_Sprites_Autumn_47: -1832712451745933482
+      Isometric_Sprites_Autumn_48: -411478305480647979
+      Isometric_Sprites_Autumn_49: -4238725109451120724
+      Isometric_Sprites_Autumn_5: 6519776769000869126
+      Isometric_Sprites_Autumn_50: -7458829060437326213
+      Isometric_Sprites_Autumn_51: -444311878574648552
+      Isometric_Sprites_Autumn_52: -5495204765280650018
+      Isometric_Sprites_Autumn_53: -8662610115825232873
+      Isometric_Sprites_Autumn_54: -5354551731967703208
+      Isometric_Sprites_Autumn_6: 6102814131564958879
+      Isometric_Sprites_Autumn_7: -1629409368681861207
+      Isometric_Sprites_Autumn_8: 766197446652427328
+      Isometric_Sprites_Autumn_9: 3857801822688414769
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

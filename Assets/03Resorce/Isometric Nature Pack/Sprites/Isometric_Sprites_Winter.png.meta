@@ -1,0 +1,1612 @@
+fileFormatVersion: 2
+guid: 3c53af52c9782b1439cd26adbc0c3a4c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2755949917403907206
+    second: Isometric_Sprites_Winter_0
+  - first:
+      213: -5191553521403274150
+    second: Isometric_Sprites_Winter_1
+  - first:
+      213: -276325273280493046
+    second: Isometric_Sprites_Winter_2
+  - first:
+      213: -2159245865980321064
+    second: Isometric_Sprites_Winter_3
+  - first:
+      213: 8385595908677484120
+    second: Isometric_Sprites_Winter_4
+  - first:
+      213: 4434675532032210175
+    second: Isometric_Sprites_Winter_5
+  - first:
+      213: -3397425544980185940
+    second: Isometric_Sprites_Winter_6
+  - first:
+      213: 5507120673496437321
+    second: Isometric_Sprites_Winter_7
+  - first:
+      213: 5536065706895166993
+    second: Isometric_Sprites_Winter_8
+  - first:
+      213: 4856815314696917351
+    second: Isometric_Sprites_Winter_9
+  - first:
+      213: -218100360884944823
+    second: Isometric_Sprites_Winter_10
+  - first:
+      213: 2460112557781240984
+    second: Isometric_Sprites_Winter_11
+  - first:
+      213: 7361762309271151592
+    second: Isometric_Sprites_Winter_12
+  - first:
+      213: -2369873709618387930
+    second: Isometric_Sprites_Winter_13
+  - first:
+      213: 992689218091542933
+    second: Isometric_Sprites_Winter_14
+  - first:
+      213: -1306983292572746411
+    second: Isometric_Sprites_Winter_15
+  - first:
+      213: 7910666434819532337
+    second: Isometric_Sprites_Winter_16
+  - first:
+      213: -5439628789783262894
+    second: Isometric_Sprites_Winter_17
+  - first:
+      213: 9200345003493149475
+    second: Isometric_Sprites_Winter_18
+  - first:
+      213: -5732913799374553898
+    second: Isometric_Sprites_Winter_19
+  - first:
+      213: 7161830200661979253
+    second: Isometric_Sprites_Winter_20
+  - first:
+      213: 1004957628731240722
+    second: Isometric_Sprites_Winter_21
+  - first:
+      213: -8867378880299517451
+    second: Isometric_Sprites_Winter_22
+  - first:
+      213: 919269093020180779
+    second: Isometric_Sprites_Winter_23
+  - first:
+      213: -476392407637792921
+    second: Isometric_Sprites_Winter_24
+  - first:
+      213: -3092681615535860830
+    second: Isometric_Sprites_Winter_25
+  - first:
+      213: 4759078606391440868
+    second: Isometric_Sprites_Winter_26
+  - first:
+      213: -8755473308780562928
+    second: Isometric_Sprites_Winter_27
+  - first:
+      213: 6267678757434092446
+    second: Isometric_Sprites_Winter_28
+  - first:
+      213: 6162945295632395927
+    second: Isometric_Sprites_Winter_29
+  - first:
+      213: 3242882893504551563
+    second: Isometric_Sprites_Winter_30
+  - first:
+      213: 8777183512313374350
+    second: Isometric_Sprites_Winter_31
+  - first:
+      213: 3271030431482908445
+    second: Isometric_Sprites_Winter_32
+  - first:
+      213: 8419968954326049307
+    second: Isometric_Sprites_Winter_33
+  - first:
+      213: -4387499998560288793
+    second: Isometric_Sprites_Winter_34
+  - first:
+      213: 4531545645525369178
+    second: Isometric_Sprites_Winter_35
+  - first:
+      213: 6390595391693438678
+    second: Isometric_Sprites_Winter_36
+  - first:
+      213: -3373091923734838989
+    second: Isometric_Sprites_Winter_37
+  - first:
+      213: -7332742166861326711
+    second: Isometric_Sprites_Winter_38
+  - first:
+      213: -2714242131573701434
+    second: Isometric_Sprites_Winter_39
+  - first:
+      213: -6936741979703182387
+    second: Isometric_Sprites_Winter_40
+  - first:
+      213: -1376171901927043929
+    second: Isometric_Sprites_Winter_41
+  - first:
+      213: -6385637846443930713
+    second: Isometric_Sprites_Winter_42
+  - first:
+      213: 6297841394528275709
+    second: Isometric_Sprites_Winter_43
+  - first:
+      213: 8915365926544501463
+    second: Isometric_Sprites_Winter_44
+  - first:
+      213: -1786533384071070597
+    second: Isometric_Sprites_Winter_45
+  - first:
+      213: -5152766435148334520
+    second: Isometric_Sprites_Winter_46
+  - first:
+      213: -4692299727401173954
+    second: Isometric_Sprites_Winter_47
+  - first:
+      213: 6873040179460859682
+    second: Isometric_Sprites_Winter_48
+  - first:
+      213: 4058593027888984125
+    second: Isometric_Sprites_Winter_49
+  - first:
+      213: 3015817553367876804
+    second: Isometric_Sprites_Winter_50
+  - first:
+      213: -5642025887609048207
+    second: Isometric_Sprites_Winter_51
+  - first:
+      213: -6867246926283572364
+    second: Isometric_Sprites_Winter_52
+  - first:
+      213: 561926594531661103
+    second: Isometric_Sprites_Winter_53
+  - first:
+      213: 376159405248555152
+    second: Isometric_Sprites_Winter_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 416
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68480a529d91f3620800000000000000
+      internalID: 2755949917403907206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 416
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c545c0495e3f7b0800000000000000
+      internalID: -5191553521403274150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 416
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a47a3c0ab4a2cf0800000000000000
+      internalID: -276325273280493046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 416
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d223873351d802e0800000000000000
+      internalID: -2159245865980321064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 386
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85eb0b6dc0f9f5470800000000000000
+      internalID: 8385595908677484120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_5
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 386
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff475e486e12b8d30800000000000000
+      internalID: 4434675532032210175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_6
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 386
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac3e98977be9d0d0800000000000000
+      internalID: -3397425544980185940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_7
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 386
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94217f613193d6c40800000000000000
+      internalID: 5507120673496437321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 354
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e45b8dd6e04dc40800000000000000
+      internalID: 5536065706895166993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_9
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 354
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761df24dbcfd66340800000000000000
+      internalID: 4856815314696917351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_10
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 354
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940811890e629fcf0800000000000000
+      internalID: -218100360884944823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_11
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 354
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c470a4653142220800000000000000
+      internalID: 2460112557781240984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 324
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e367f4e0db3a2660800000000000000
+      internalID: 7361762309271151592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_13
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 324
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624a8afca648c1fd0800000000000000
+      internalID: -2369873709618387930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_14
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 324
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599e4b8959db6cd00800000000000000
+      internalID: 992689218091542933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_15
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 324
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55db4debe99acdde0800000000000000
+      internalID: -1306983292572746411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 293
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1362600c53558cd60800000000000000
+      internalID: 7910666434819532337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_17
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 293
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2590bf2af6e8284b0800000000000000
+      internalID: -5439628789783262894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_18
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 293
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bcf3009013eaf70800000000000000
+      internalID: 9200345003493149475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_19
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 293
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc385416499070b0800000000000000
+      internalID: -5732913799374553898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 262
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5703f1c5f9ee36360800000000000000
+      internalID: 7161830200661979253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_21
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 262
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21138da83a352fd00800000000000000
+      internalID: 1004957628731240722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_22
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 262
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f932f6c3edb0f480800000000000000
+      internalID: -8867378880299517451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_23
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 262
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21a67e9e56e1cc00800000000000000
+      internalID: 919269093020180779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 231
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7676e0911a38369f0800000000000000
+      internalID: -476392407637792921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_25
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 231
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a39a96d4769415d0800000000000000
+      internalID: -3092681615535860830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_26
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 231
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e57f1027c4ab0240800000000000000
+      internalID: 4759078606391440868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_27
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 231
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01678b50a6f4e7680800000000000000
+      internalID: -8755473308780562928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 200
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bee1f4f944bf650800000000000000
+      internalID: 6267678757434092446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_29
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 200
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e655cf71e278550800000000000000
+      internalID: 6162945295632395927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_30
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 200
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a97836fc8010d20800000000000000
+      internalID: 3242882893504551563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_31
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 200
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86aad3a6e1dec970800000000000000
+      internalID: 8777183512313374350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_32
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 168
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f0806c8d8056d20800000000000000
+      internalID: 3271030431482908445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_33
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 168
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12eb6e272db9d470800000000000000
+      internalID: 8419968954326049307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_34
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 168
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef79cd4ff77c13c0800000000000000
+      internalID: -4387499998560288793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_35
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 137
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51020561c843ee30800000000000000
+      internalID: 4531545645525369178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_36
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 137
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6deb22166a4ffa850800000000000000
+      internalID: 6390595391693438678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_37
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 137
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331cb0b44ce5031d0800000000000000
+      internalID: -3373091923734838989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_38
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 137
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986d3ba89dddc3a90800000000000000
+      internalID: -7332742166861326711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_39
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 106
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c486297923155ad0800000000000000
+      internalID: -2714242131573701434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_40
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 106
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb70410cedbbbf90800000000000000
+      internalID: -6936741979703182387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_41
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 106
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acc3cb42fad6ece0800000000000000
+      internalID: -1376171901927043929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_42
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 106
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab4b621638a167a0800000000000000
+      internalID: -6385637846443930713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_43
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 75
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfccb94816d666750800000000000000
+      internalID: 6297841394528275709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_44
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 75
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da6e46131eb9bb70800000000000000
+      internalID: 8915365926544501463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_45
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 75
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c31174a55f437e0800000000000000
+      internalID: -1786533384071070597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_46
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 75
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a7d6e4a32bd78b0800000000000000
+      internalID: -5152766435148334520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_47
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 41
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c3790424a91eeb0800000000000000
+      internalID: -4692299727401173954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_48
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 41
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22760c7d0a1f16f50800000000000000
+      internalID: 6873040179460859682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_49
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 41
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3033330bd4035830800000000000000
+      internalID: 4058593027888984125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_50
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 41
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c441e716165ad920800000000000000
+      internalID: 3015817553367876804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_51
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 12
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1733183195f73b1b0800000000000000
+      internalID: -5642025887609048207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_52
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 12
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b79f50e43a2b0a0800000000000000
+      internalID: -6867246926283572364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_53
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 12
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2597e0b24d5cc700800000000000000
+      internalID: 561926594531661103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric_Sprites_Winter_54
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 12
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09823c07cf2683500800000000000000
+      internalID: 376159405248555152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Isometric_Sprites_Winter_0: 2755949917403907206
+      Isometric_Sprites_Winter_1: -5191553521403274150
+      Isometric_Sprites_Winter_10: -218100360884944823
+      Isometric_Sprites_Winter_11: 2460112557781240984
+      Isometric_Sprites_Winter_12: 7361762309271151592
+      Isometric_Sprites_Winter_13: -2369873709618387930
+      Isometric_Sprites_Winter_14: 992689218091542933
+      Isometric_Sprites_Winter_15: -1306983292572746411
+      Isometric_Sprites_Winter_16: 7910666434819532337
+      Isometric_Sprites_Winter_17: -5439628789783262894
+      Isometric_Sprites_Winter_18: 9200345003493149475
+      Isometric_Sprites_Winter_19: -5732913799374553898
+      Isometric_Sprites_Winter_2: -276325273280493046
+      Isometric_Sprites_Winter_20: 7161830200661979253
+      Isometric_Sprites_Winter_21: 1004957628731240722
+      Isometric_Sprites_Winter_22: -8867378880299517451
+      Isometric_Sprites_Winter_23: 919269093020180779
+      Isometric_Sprites_Winter_24: -476392407637792921
+      Isometric_Sprites_Winter_25: -3092681615535860830
+      Isometric_Sprites_Winter_26: 4759078606391440868
+      Isometric_Sprites_Winter_27: -8755473308780562928
+      Isometric_Sprites_Winter_28: 6267678757434092446
+      Isometric_Sprites_Winter_29: 6162945295632395927
+      Isometric_Sprites_Winter_3: -2159245865980321064
+      Isometric_Sprites_Winter_30: 3242882893504551563
+      Isometric_Sprites_Winter_31: 8777183512313374350
+      Isometric_Sprites_Winter_32: 3271030431482908445
+      Isometric_Sprites_Winter_33: 8419968954326049307
+      Isometric_Sprites_Winter_34: -4387499998560288793
+      Isometric_Sprites_Winter_35: 4531545645525369178
+      Isometric_Sprites_Winter_36: 6390595391693438678
+      Isometric_Sprites_Winter_37: -3373091923734838989
+      Isometric_Sprites_Winter_38: -7332742166861326711
+      Isometric_Sprites_Winter_39: -2714242131573701434
+      Isometric_Sprites_Winter_4: 8385595908677484120
+      Isometric_Sprites_Winter_40: -6936741979703182387
+      Isometric_Sprites_Winter_41: -1376171901927043929
+      Isometric_Sprites_Winter_42: -6385637846443930713
+      Isometric_Sprites_Winter_43: 6297841394528275709
+      Isometric_Sprites_Winter_44: 8915365926544501463
+      Isometric_Sprites_Winter_45: -1786533384071070597
+      Isometric_Sprites_Winter_46: -5152766435148334520
+      Isometric_Sprites_Winter_47: -4692299727401173954
+      Isometric_Sprites_Winter_48: 6873040179460859682
+      Isometric_Sprites_Winter_49: 4058593027888984125
+      Isometric_Sprites_Winter_5: 4434675532032210175
+      Isometric_Sprites_Winter_50: 3015817553367876804
+      Isometric_Sprites_Winter_51: -5642025887609048207
+      Isometric_Sprites_Winter_52: -6867246926283572364
+      Isometric_Sprites_Winter_53: 561926594531661103
+      Isometric_Sprites_Winter_54: 376159405248555152
+      Isometric_Sprites_Winter_6: -3397425544980185940
+      Isometric_Sprites_Winter_7: 5507120673496437321
+      Isometric_Sprites_Winter_8: 5536065706895166993
+      Isometric_Sprites_Winter_9: 4856815314696917351
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

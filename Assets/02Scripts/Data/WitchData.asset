@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 628c2bf55dca5834a8c2fc5f3ca3e55f, type: 3}
+  m_Name: WitchData
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerData
+  playerName: "\uB85C\uC988"
+  job: "\uB9C8\uBC95\uC0AC"
+  hp: 150
+  maxhp: 150
+  Attack: 20
+  Level: 1
+  mp: 250
+  maxmp: 250
+  exp: 20
