@@ -14,6 +14,10 @@ public class GameManager : MonoBehaviour
     public GameObject[] status;
     Text[] swordmanText, pristText, witchText;
 
+    public GameObject statusSwordmanPanel;
+    public GameObject statusPriestPanel;
+    public GameObject statusWitchPanel;
+
     public Dictionary<string , GameObject> D_Player = new Dictionary<string , GameObject>();
     private void Awake()
     {
@@ -29,11 +33,12 @@ public class GameManager : MonoBehaviour
         D_Player.Add("사제", player2);
         D_Player.Add("마법사", player3);
 
-        status = GameObject.FindGameObjectsWithTag("Stats");
-
-        swordmanText = status[0].GetComponentsInChildren<Text>();
-        pristText = status[1].GetComponentsInChildren<Text>();
-        witchText = status[2].GetComponentsInChildren<Text>();
+        if (status.Length >= 3)
+        {
+            swordmanText = status[0].GetComponentsInChildren<Text>();
+            pristText = status[1].GetComponentsInChildren<Text>();
+            witchText = status[2].GetComponentsInChildren<Text>();
+        }
     }
 
     private void Update()

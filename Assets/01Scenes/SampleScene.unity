@@ -302,10 +302,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c22c979128b301c4fa75161fc70ae62c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GameManager
-  player1: {fileID: 856862023}
-  player2: {fileID: 2109926247}
-  player3: {fileID: 1001576404}
+  player1: {fileID: 1677499141}
+  player2: {fileID: 303865967}
+  player3: {fileID: 2042194964}
   status: []
+  statusSwordmanPanel: {fileID: 463993379}
+  statusPriestPanel: {fileID: 441066135}
+  statusWitchPanel: {fileID: 1095663319}
 --- !u!4 &256376150
 Transform:
   m_ObjectHideFlags: 0
@@ -8768,8 +8771,8 @@ SceneRoots:
   - {fileID: 828195661}
   - {fileID: 620334254}
   - {fileID: 1677499144}
-  - {fileID: 2042194967}
   - {fileID: 303865970}
+  - {fileID: 2042194967}
   - {fileID: 1391464320}
   - {fileID: 1321212511}
   - {fileID: 1467473324}
