@@ -14,10 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PlayerData
   playerName: "\uBE14\uB808\uC5B4"
   job: "\uC0AC\uC81C"
-  hp: 200
+  hp: 185
   maxhp: 200
-  Attack: 5
-  Level: 1
+  attack: 5
+  level: 0
   mp: 200
   maxmp: 200
   exp: 20
