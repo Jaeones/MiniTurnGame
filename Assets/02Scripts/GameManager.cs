@@ -8,9 +8,9 @@ public class GameManager : MonoBehaviour
 {
     public static GameManager instance;
 
-    public GameObject player1; // °Ë»ç ¿ÀºêÁ§Æ® ¿¬°á
-    public GameObject player2; // »çÁ¦ ¿ÀºêÁ§Æ® ¿¬°á
-    public GameObject player3; // ¸¶¹ý»ç ¿ÀºêÁ§Æ® ¿¬°á
+    public GameObject player1; // ï¿½Ë»ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½
+    public GameObject player2; // ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½
+    public GameObject player3; // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½
 
     public Dictionary<string, GameObject> D_Player = new Dictionary<string, GameObject>();
 
@@ -37,7 +37,6 @@ public class GameManager : MonoBehaviour
     public GameObject Monster1;
     public GameObject Monster2;
     public GameObject Monster3;
-    public GameObject Monster4;
 
     public GameObject win;
     public GameObject lose;
@@ -76,7 +75,6 @@ public class GameManager : MonoBehaviour
         L_Monster.Add(Monster1);
         L_Monster.Add(Monster2);
         L_Monster.Add(Monster3);
-        L_Monster.Add(Monster4);
     }
 
     private void Update()
@@ -129,7 +127,7 @@ public class GameManager : MonoBehaviour
 
     private void StatusShow()
     {
-        // P1 (°Ë»ç) Á¤º¸ °»½Å
+        // P1 (ï¿½Ë»ï¿½) ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
         if (p1Script != null && swordmanText != null)
         {
             swordmanText[0].text = p1Script.pdata.job;
@@ -139,20 +137,20 @@ public class GameManager : MonoBehaviour
             swordmanText[4].text = "MP: " + p1Script.pdata.mp + "/" + p1Script.pdata.maxmp;
         }
 
-        // P2 (»çÁ¦) Á¤º¸ °»½Å - [¹ö±× ¼öÁ¤µÊ]
+        // P2 (ï¿½ï¿½ï¿½ï¿½) ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ - [ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½]
         if (p2Script != null && priestText != null)
         {
-            priestText[0].text = p2Script.pdata.job;     // swordmanText -> priestText·Î ¼öÁ¤
+            priestText[0].text = p2Script.pdata.job;     // swordmanText -> priestTextï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
             priestText[1].text = "Level: " + p2Script.pdata.level;
             priestText[2].text = "Exp: " + p2Script.pdata.exp;
             priestText[3].text = "HP: " + p2Script.pdata.hp + "/" + p2Script.pdata.maxhp;
             priestText[4].text = "MP: " + p2Script.pdata.mp + "/" + p2Script.pdata.maxmp;
         }
 
-        // P3 (¸¶¹ý»ç) Á¤º¸ °»½Å - [¹ö±× ¼öÁ¤µÊ]
+        // P3 (ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½) ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ - [ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½]
         if (p3Script != null && witchText != null)
         {
-            witchText[0].text = p3Script.pdata.job;      // swordmanText -> witchText·Î ¼öÁ¤
+            witchText[0].text = p3Script.pdata.job;      // swordmanText -> witchTextï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
             witchText[1].text = "Level: " + p3Script.pdata.level;
             witchText[2].text = "Exp: " + p3Script.pdata.exp;
             witchText[3].text = "HP: " + p3Script.pdata.hp + "/" + p3Script.pdata.maxhp;
@@ -164,7 +162,7 @@ public class GameManager : MonoBehaviour
     {
         int i = 0;
 
-        //³²Àº ¸ó½ºÅÍ¸¦ °í·ÁÇØ µô·¹ÀÌ ½Ã°£ º¯°æ
+        //ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Í¸ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ã°ï¿½ ï¿½ï¿½ï¿½ï¿½
         float delay = turnTime / L_Monster.Count;
         while (MonsterTurn)
         {
